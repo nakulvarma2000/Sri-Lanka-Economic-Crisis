@@ -1,2 +1,2 @@
 # Sri-Lanka-Economic-Crisis
-Analysis of Economic Crisis in Sri lanka
+## PROJECT TITLE: ANALYSIS OF ECONOMIC CRISIS IN SRI LANKA
